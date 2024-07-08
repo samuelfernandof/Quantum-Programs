@@ -4,44 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Implementação dos Estados de Bell com Qiskit</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            max-width: 800px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 6px;
-            border-radius: 4px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 20px auto;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-    </style>
 </head>
 <body>
-    <h1>Implementação dos Estados de Bell com Qiskit</h1>
-
     <h2>Requisitos</h2>
     <ul>
         <li>Instalação do Qiskit: <code>!pip install qiskit</code></li>
@@ -90,13 +54,4 @@
 
     <h2>Como Executar o Programa</h2>
     <p>Copie e cole o código Python fornecido em um arquivo Python.</p>
-    <p>Insira seu token de API na linha <code>IBMQ.enable_account('Insira seu token aqui')</code>.</p>
-    <p>Salve e execute o arquivo para experimentar os estados de Bell!</p>
-
-    <h2>Referências</h2>
-    <ul>
-        <li><a href="https://quantum.ibm.com/">IBM Quantum</a></li>
-        <li><a href="https://qiskit.org/">Qiskit</a></li>
-    </ul>
-</body>
-</html>
+    <p>Insira seu token de API na linha <code>IBMQ.enable_account('Insira seu token aqui')</code>.</p
