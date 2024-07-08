@@ -1,1 +1,1 @@
-# ket-quantum-experiments
+# quantum-program
